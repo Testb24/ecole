@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecole/static/css/main.e6316dcd.css",
+    "main.js": "/ecole/static/js/main.7881bf71.js",
+    "index.html": "/ecole/index.html",
+    "main.e6316dcd.css.map": "/ecole/static/css/main.e6316dcd.css.map",
+    "main.7881bf71.js.map": "/ecole/static/js/main.7881bf71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6316dcd.css",
+    "static/js/main.7881bf71.js"
+  ]
+}
